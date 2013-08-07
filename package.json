@@ -1,0 +1,27 @@
+{
+  "name": "pdiffy",
+  "version": "0.0.1",
+  "description": "Automated UI Verification",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.12.0",
+	"chai": "1.7.2",
+	"mocha-phantomjs": "3.1.0",
+	"phantomjs": "*"
+  },
+  "scripts": {
+    "test": "mocha-phantomjs js/test/TestRunner.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kennychua/pdiffy.git"
+  },
+  "author": "Kenny Chua",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "b3883642b12a47b6d1338d438720dcca0a021183"
+}
