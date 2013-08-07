@@ -2,7 +2,8 @@ pdiffy
 ======
 
 Automated UI Verification with perceptual diffs (pdiff)
-  - [![Build Status](https://travis-ci.org/resque/resque.png?branch=master)](https://travis-ci.org/resque/resque)
+  - [![Build Status](https://travis-ci.org/kennychua/pdiffy.png?branch=master)](https://travis-ci.org/kennychua/pdiffy)
+  - [![Code Climate](https://codeclimate.com/github/kennychua/pdiffy.png)](https://codeclimate.com/github/kennychua/pdiffy)
 
 Reference
 ---------
