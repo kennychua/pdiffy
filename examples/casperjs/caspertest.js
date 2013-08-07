@@ -7,9 +7,9 @@ var casper = require('casper').create(
 
 // Navigate to Google homepage
 casper.start('http://google.com', function() {
-	// Replace the following with path to a local copy of resemble.pdiffy.js 
+	// Replace the following with path to a local copy of pdiffy.js 
 	// PhantomJs/CasperJs only supports injection of local files, not over http
-	phantom.injectJs('/home/htpc/Development/pdiffy/js/src/resemble.pdiffy.js'); 
+	phantom.injectJs('/home/htpc/Development/pdiffy/js/src/pdiffy.js'); 
 
 	// whole page capture
 	actual_screenshot = 'data:image/png;base64,' + this.captureBase64('png');
@@ -24,7 +24,7 @@ casper.then(function() {
 	//
 	// However, in this example, we just make expected_screenshot == actual_screenshot
 	expected_screenshot = actual_screenshot;
-	resemble(actual_screenshot).compareTo(expected_screenshot).onComplete(function(data){
+	pdiffy(actual_screenshot).compareTo(expected_screenshot).onComplete(function(data){
 		results = data;
 	});
 });
