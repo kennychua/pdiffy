@@ -18,9 +18,12 @@ How can this be useful?
 Automated UI Verification!
 
 At the end of every testing cycle, someone is always responsible to have a final look even though all the tests have passed and that all functionality works as expected to make sure that everything looks right and is displayed properly.
+
 _Once you have a baseline of what looks right, a machine can do it faster and better for you_
 
 This tool is intended to provide you with quick immediate feedback when something does not look quite right and highlights it for you.
+
+
 
 
 Take the [Google homepage](http://www.google.com) for example. This is what we expect it to look like.
