@@ -10,6 +10,7 @@ NOT READY FOR USE!
 What is pdiffy?
 ------------------
 A normal diff between 2 text files enables you to quickly determine 2 things - Whether the two input files are identical, and if not, exactly where the differences lie.
+
 A Perceptual Diff (pdiff) allows you to do the same with 2 image files and quickly identify whether the two images are identical, and highlight areas where the 2 images mismatch
 
 How can this be useful?
@@ -22,7 +23,7 @@ _Once you have a baseline of what looks right, a machine can do it faster and be
 This tool is intended to provide you with quick immediate feedback when something does not look quite right and highlights it for you.
 
 
-Take the [![Gooogle homepage](http://www.google.com) for example. This is what we expect it to look like.
+Take the [Google homepage](http://www.google.com) for example. This is what we expect it to look like.
 
 XXX image1
 
