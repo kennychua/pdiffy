@@ -38,6 +38,7 @@ The resulting JSON object also gives you some extra data from the analysis.
 ```javascript
 {isSameDimensions: true, misMatchPercentage: "0.04", analysisTime: 672, getImageDataUrl: function()}
 ```
+--- 
 
 #### One step further.. Ignoring certain regions on page for allowed/known differences
 Often times when doing visual comparisons on a site, you expect that some areas of the site are going to be different. For example, there might be a current date/time displayed on the page, or an alternating banner. 
