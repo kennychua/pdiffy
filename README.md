@@ -28,16 +28,18 @@ This tool is intended to provide you with quick immediate feedback when somethin
 
 Take the [Google homepage](http://www.google.com) for example. This is what we expect it to look like.
 
-XXX image1
+![alt text](http://kennychua.net/wp-content/uploads/2013/08/google_homepage_original.png "Expected Google Homepage")
 
 Suppose for some reason, the 'XXX' link was inadvertently missed.
-XXX image2
+![alt text](http://kennychua.net/wp-content/uploads/2013/08/google_homepage_missinglink.png "Google Homepage with missing link")
 
 pdiffy is able to tell you that the images were not identical, and highlight the missing link:
-XXX image3
+![alt text](http://kennychua.net/wp-content/uploads/2013/08/difference.png "Computed difference")
 
 code
 
+XXX
+![alt text](http://kennychua.net/wp-content/uploads/2013/08/google_homepage_transparent.png "Google Homepage with transparency over missing link to ignore")
 
 One step further.. Ignoring certain areas
 ----------------------------------------
