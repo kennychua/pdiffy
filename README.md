@@ -40,7 +40,7 @@ The resulting JSON object also gives you some extra data from the analysis.
 ```
 --- 
 
-#### One step further.. Ignoring certain regions on page for allowed/known differences
+## One step further.. Ignoring certain regions on page for allowed/known differences
 Often times when doing visual comparisons on a site, you expect that some areas of the site are going to be different. For example, there might be a current date/time displayed on the page, or an alternating banner. 
 
 *__pdiffy allows you to exclude specific sections of a page from the comparison analysis by marking the section in the known/expected image as a transparent area.__*
