@@ -52,6 +52,9 @@ We get the following results:
 ```javascript
 {isSameDimensions: true, misMatchPercentage: "0.00", analysisTime: 672, getImageDataUrl: function()}
 ```
+
+The images are now considered identical!
+
 ## Usage
 * Usage with Mocha+PhantomJs
 * [Usage with CasperJs](https://github.com/kennychua/pdiffy/blob/master/examples/casperjs/CASPEREXAMPLE.md)
