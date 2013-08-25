@@ -58,8 +58,8 @@ The images are now considered identical!
 ## Usage
 * Usage with Mocha+PhantomJs
 * [Usage with CasperJs](https://github.com/kennychua/pdiffy/blob/master/examples/casperjs/CASPEREXAMPLE.md)
-* Usage with Selenium WebDriver(Java)
-* Uses with Selenium WebDriver(other)
+* Usage with Selenium WebDriver(Java) _coming soon_
+* Uses with Selenium WebDriver(other) _coming soon_
 
 ## Reference
 - [Secret to Safe Continuous Deployments](http://www.youtube.com/watch?v=UMnZiTL0tUc) See what Google says about how they use and benefit from a pdiff implementation. 
