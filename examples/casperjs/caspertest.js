@@ -1,3 +1,7 @@
+/**
+* See https://github.com/kennychua/pdiffy/blob/master/examples/casperjs/CASPEREXAMPLE.md for more information
+**/
+
 // Initialise Casper, and instruct it to do lots of logging
 var casper = require('casper').create(
 {	

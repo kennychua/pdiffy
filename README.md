@@ -53,7 +53,7 @@ We get the following results:
 ```
 ## Usage
 * Usage with Mocha+PhantomJs
-* Usage with CasperJs
+* [Usage with CasperJs](https://github.com/kennychua/pdiffy/blob/master/examples/casperjs/CASPEREXAMPLE.md)
 * Usage with Selenium WebDriver(Java)
 * Uses with Selenium WebDriver(other)
 
