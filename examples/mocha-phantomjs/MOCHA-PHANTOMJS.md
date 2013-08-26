@@ -7,7 +7,6 @@ You will need the following :
 ```
 $ npm install -g mocha-phantomjs phantomjs
 ```
-
 * Otherwise, once you have downloaded and installed PhantomJS yourself and have it on the PATH:
 ```javascript
 $ npm install -g mocha-phantomjs
@@ -20,6 +19,7 @@ If you don't install phantomjs using either of these approaches, you will get an
 
 ## Running the test
 * Simply run the following command :
+* 
 ```
 $ mocha-phantomjs /path/to/test/TestRunner.html
 ```
