@@ -4,12 +4,10 @@ Automated UI Verification with perceptual diffs (pdiff)
   - [![Build Status](https://travis-ci.org/kennychua/pdiffy.png?branch=master)](https://travis-ci.org/kennychua/pdiffy)
   - [![Code Climate](https://codeclimate.com/github/kennychua/pdiffy.png)](https://codeclimate.com/github/kennychua/pdiffy)
 
-NOT READY FOR USE!
-
 ## What is pdiffy?
 A normal diff between 2 text files enables you to quickly determine 2 things - Whether the two input files are identical, and if not, exactly where the differences lie.
 
-A Perceptual Diff (pdiff) allows you to do the same with 2 image files and quickly identify whether the two images are identical, and highlight areas where the 2 images mismatch
+A Perceptual Diff (pdiff) allows you to do the same with 2 image files and quickly identify whether the two images are identical, and highlight areas where the 2 images mismatch. pdiffy does exactly this.
 
 ## How can this be useful?
 __*Automated UI Verification!*__
