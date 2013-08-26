@@ -8,6 +8,6 @@ You will need the following :
 
 ## Running the test
 ```
-pathtocasperjs/casperjs caspertest.js
+$ pathtocasperjs/casperjs caspertest.js
 ```
 ![alt text](http://kennychua.net/wp-content/uploads/2013/08/casperjs.png "CasperJS test run screenshot")
