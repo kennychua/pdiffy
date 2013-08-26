@@ -4,6 +4,7 @@ _The pdiffy project tests itself using this strategy. Inspect the package.json f
 ## Prerequisites
 You will need the following :
 * phantomjs and mocha-phantomjs installed as described [here](https://github.com/metaskills/mocha-phantomjs)
+
 ```
    $ npm install -g mocha-phantomjs phantomjs
 ```
