@@ -18,6 +18,7 @@ If you don't install phantomjs using either of these approaches, you will get an
 
 
 ## Running the test
+### On the command line
 * Simply run the following command :
 ```
    $ mocha-phantomjs /path/to/test/TestRunner.html
@@ -29,3 +30,7 @@ If you don't install phantomjs using either of these approaches, you will get an
 ```
 
 ![alt text](http://kennychua.net/wp-content/uploads/2013/08/mocha_phantomjs.png "Mocha + PhantomJs test run screenshot")
+
+### In a browser
+* You can also run your tests in a browser by pointing your browser to the mocha-phantomjs TestRunner HTML file. This allows quick dev test cycle times and even lets you use the browser's debugger to step through your test.
+* XXX image!
