@@ -25,7 +25,7 @@ If you don't install phantomjs using either of these approaches, you will get an
 $ mocha-phantomjs /path/to/test/TestRunner.html
 ```
 
-Alternatively, you may configure the above command into the test stage of package.json like this [example](https://raw.github.com/kennychua/pdiffy/master/package.json) so that you can just run :
+* Alternatively, you may configure the above command into the test stage of package.json like this [example](https://raw.github.com/kennychua/pdiffy/master/package.json) so that you can just run :
 ```
 $ npm test
 ```
