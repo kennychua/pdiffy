@@ -56,7 +56,7 @@ We get the following results:
 The images are now considered identical!
 
 ## Usage
-* Usage with Mocha+PhantomJs
+* [Usage with Mocha+PhantomJs](https://github.com/kennychua/pdiffy/blob/master/examples/mocha-phantomjs/MOCHA-PHANTOMJS.md)
 * [Usage with CasperJs](https://github.com/kennychua/pdiffy/blob/master/examples/casperjs/CASPEREXAMPLE.md)
 * Usage with Selenium WebDriver(Java) _coming soon_
 * Uses with Selenium WebDriver(other) _coming soon_
