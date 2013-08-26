@@ -28,4 +28,4 @@ If you don't install phantomjs using either of these approaches, you will get an
    $ npm test
 ```
 
-![alt text](http://kennychua.net/wp-content/uploads/2013/08/XXX.png "XXXtest run screenshot")
+![alt text](http://kennychua.net/wp-content/uploads/2013/08/mocha_phantomjs.png "XXXtest run screenshot")
