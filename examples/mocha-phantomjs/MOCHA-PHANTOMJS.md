@@ -4,12 +4,11 @@ _The pdiffy project tests itself using this strategy. Inspect the package.json f
 ## Prerequisites
 You will need the following :
 * phantomjs and mocha-phantomjs installed as described [here](https://github.com/metaskills/mocha-phantomjs)
-XXX check and improve formatting here
 ```
 $ npm install -g mocha-phantomjs phantomjs
 ```
 
-Otherwise, once you have downloaded and installed PhantomJS yourself and have it on the PATH:
+* Otherwise, once you have downloaded and installed PhantomJS yourself and have it on the PATH:
 ```javascript
 $ npm install -g mocha-phantomjs
 ```
