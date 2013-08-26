@@ -1,5 +1,5 @@
 # Running with Mocha+PhantomJs
-_The pdiffy project tests itself using this strategy. Inspect the package.json file in the root to see how it works live!_
+_The pdiffy project tests itself using this strategy. Inspect the [package.json](https://raw.github.com/kennychua/pdiffy/master/package.json) file in the root to see how it works live!_
 
 ## Prerequisites
 You will need the following :
