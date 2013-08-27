@@ -65,3 +65,7 @@ The images are now considered identical!
 ## Acknowledgement
 Borrowed heavily from [resemble.js](http://huddle.github.io/Resemble.js/)
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kennychua/pdiffy/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
