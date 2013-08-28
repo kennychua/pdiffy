@@ -65,7 +65,8 @@ The images are now considered identical!
 ## Acknowledgement
 Borrowed heavily from [resemble.js](http://huddle.github.io/Resemble.js/)
 
-
+## Note
+The recommended image format to use is a lossless PNG to eliminate false positives from compression artifacts.
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kennychua/pdiffy/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/e189f29bcf5d044d95a8b97bc1684df2 "githalytics.com")](http://githalytics.com/kennychua/pdiffy)
