@@ -1,6 +1,6 @@
 # pdiffy
 
-Automated UI Verification with perceptual diffs (pdiff)
+Automated UI Verification with perceptual diffs (pdiff) with JavaScript
   - [![Build Status](https://travis-ci.org/kennychua/pdiffy.png?branch=master)](https://travis-ci.org/kennychua/pdiffy)
   - [![Code Climate](https://codeclimate.com/github/kennychua/pdiffy.png)](https://codeclimate.com/github/kennychua/pdiffy)
 
